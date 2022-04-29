@@ -16,3 +16,4 @@ after the command is run provide the password
 ![Capture](https://user-images.githubusercontent.com/29538033/165904871-2ed1ce11-0698-4dac-8c08-119eb5679b60.PNG)
 NOW Creating a Dedicated MySQL User and Granting Privileges
 ....sudo mysql
+![Capture2](https://user-images.githubusercontent.com/29538033/165906379-6b23ff1f-0b46-4bcf-b375-7f00ba33e40b.PNG)
