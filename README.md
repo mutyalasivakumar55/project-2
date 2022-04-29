@@ -17,3 +17,10 @@ after the command is run provide the password
 NOW Creating a Dedicated MySQL User and Granting Privileges
 ....sudo mysql
 ![Capture2](https://user-images.githubusercontent.com/29538033/165906379-6b23ff1f-0b46-4bcf-b375-7f00ba33e40b.PNG)
+NOW CREATE a user with full previlages
+... CREATE USER 'myuser'@'localhost' IDENTIFIED BY 'MYPASS';
+... CREATE USER 'myuser'@'%' IDENTIFIED BY 'mypass';
+now give full previliages
+...GRANT ALL ON *.* TO 'myuser'@'localhost';
+...GRANT ALL ON *.* TO 'myuser'@'%';
+...FLUSH PRIVILEGES;
