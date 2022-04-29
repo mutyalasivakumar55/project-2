@@ -25,3 +25,5 @@ now give full previliages
 ...GRANT ALL ON *.* TO 'myuser'@'%';
 ...FLUSH PRIVILEGES;
 now create one more ubuntu machine and try to connect it with eachother
+if it is unable to communicate each other
+..try change loopback address 127.0.0.0  to 0.0.0.0 in sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf 
