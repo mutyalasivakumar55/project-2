@@ -14,3 +14,5 @@ now configure mysql
 ....sudo mysql_secure_installation
 after the command is run provide the password
 ![Capture](https://user-images.githubusercontent.com/29538033/165904871-2ed1ce11-0698-4dac-8c08-119eb5679b60.PNG)
+NOW Creating a Dedicated MySQL User and Granting Privileges
+....sudo mysql
