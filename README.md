@@ -5,3 +5,11 @@ my-sql
 ..............................................................................................................................
 now created ubuntu machine in aws with http and sql port open
 ![webserver9 1](https://user-images.githubusercontent.com/29538033/165903124-a4255189-816e-49b7-99f7-6b480b82ce91.PNG)
+Now install my -sql on ubuntu server
+installation steps
+....sudo apt update
+....sudo apt install mysql-server
+....sudo systemctl start mysql.service
+now configure mysql 
+....sudo mysql_secure_installation
+after the command is run provide the password
