@@ -4,3 +4,4 @@ my-sql
 ![webserver9 PNG1](https://user-images.githubusercontent.com/29538033/165902569-9e66f8f0-b154-4124-b2e6-2f7b4ca76996.PNG)
 ..............................................................................................................................
 now created ubuntu machine in aws with http and sql port open
+![webserver9 1](https://user-images.githubusercontent.com/29538033/165903124-a4255189-816e-49b7-99f7-6b480b82ce91.PNG)
